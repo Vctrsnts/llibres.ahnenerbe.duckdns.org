@@ -1,0 +1,19 @@
+{
+  "links": [
+    {
+      "title": "Mastodon",
+      "icon": "fa-mastodon",
+      "url": "https://mastodon.online/@vsantos"
+    },
+    {
+      "title": "GitHub",
+      "icon": "fa-github",
+      "url": "https://github.com/"
+    },
+    {
+      "title": "RSS",
+      "icon": "fa-rss",
+      "url": "feed.xml"
+    }
+  ]
+}
