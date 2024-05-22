@@ -11,10 +11,10 @@ categories: [Novela]
 - Autor: Santiago Posteguillo
 - Colecció:
   - Los asesinos del emperador
-  - Circo Maximo
+  - [Circo Maximo]({% link _posts/2023-05-05-circo-maximo.md %})
   - La legión perdida
 - Editorial: Planeta
-- Any: 
+- Any: 2011
 
 <!--more-->
 
